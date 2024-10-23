@@ -14,7 +14,6 @@ assignees: ''
 
 ## To Reproduce
 <!-- If the bug is inconsistent, please describe to the best of your ability the situations the bug appears in -->
-Steps to reproduce the behavior:
 <!-- Example:
 1. Enter a game
 2. Open escape menu
